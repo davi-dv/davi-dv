@@ -33,3 +33,6 @@
 ### Sobre mim
 
 I'm Davi Silva, a almost graduated in computer science from the community university of the chapecó region. I am a technology enthusiast.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=davi-dv&count_private=true&show_icons=true&include_all_commits=true)
+

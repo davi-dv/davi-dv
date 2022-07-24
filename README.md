@@ -32,6 +32,4 @@
 
 ### About me
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
+I'm Davi silva, people call me davizera, a quasi-graduated in computer science from the community university of the chapecó region. I am a technology enthusiast.

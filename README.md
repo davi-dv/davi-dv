@@ -32,4 +32,4 @@
 
 ### Sobre mim
 
-I'm Davi silva, people call me davizera, a quasi-graduated in computer science from the community university of the chapecó region. I am a technology enthusiast.
+I'm Davi Silva, a almost graduated in computer science from the community university of the chapecó region. I am a technology enthusiast.

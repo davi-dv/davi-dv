@@ -17,7 +17,7 @@ Sou Davi Silva, quase formado em Ciência da computação pela Universidade Comu
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&labelColor=000000&logo=vue.js&logoColor=ffffff)
+![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
 <!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff) -->
 
 ### Back-end

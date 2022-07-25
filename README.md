@@ -1,6 +1,6 @@
 # É um prazer ver você aqui  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Sou Davi Silva, quase formado em ciência da computação pela universidade comunitária da região de chapecó. Sou um entusiasta da tecnologia.
+Sou Davi Silva, quase formado em Ciência da computação pela Universidade Comunitária da região de Chapecó. Sou um entusiasta por tecnologia.
 
 ## Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/dav-dv)
@@ -25,7 +25,6 @@ Sou Davi Silva, quase formado em ciência da computação pela universidade comu
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

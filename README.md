@@ -18,11 +18,13 @@ Sou Davi Silva, quase formado em Ciência da computação pela Universidade Comu
 ### Tecnologias que uso
 
 ### Front-end
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
+<!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff) -->
 
 ### Back-end
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)

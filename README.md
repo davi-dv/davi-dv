@@ -35,4 +35,7 @@ Sou Davi Silva, quase formado em ciência da computação pela universidade comu
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=davi-dv&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-dv&hide=TeX&layout=compact)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=davi-dv)
+
+
 

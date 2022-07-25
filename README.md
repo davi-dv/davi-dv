@@ -1,5 +1,7 @@
 # É um prazer ver você aqui  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
+Sou Davi Silva, quase formado em ciência da computação pela universidade comunitária da região de chapecó. Sou um entusiasta da tecnologia.
+
 ## Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/dav-dv)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/davi-silva-076a6517a/)
@@ -30,9 +32,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-### Sobre mim
-
-I'm Davi Silva, a almost graduated in computer science from the community university of the chapecó region. I am a technology enthusiast.
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=davi-dv&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-dv&hide=TeX&layout=compact)
+
 

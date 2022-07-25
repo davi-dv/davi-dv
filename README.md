@@ -38,6 +38,7 @@ Sou Davi Silva, quase formado em Ciência da computação pela Universidade Comu
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
+![Snake animation](https://github.com/yasminalves16/yasminalves16/blob/output/github-contribution-grid-snake.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=davi-dv&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davi-dv&hide=TeX&layout=compact)

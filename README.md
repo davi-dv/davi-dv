@@ -1,6 +1,6 @@
 # É um prazer ver você aqui  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Sou Davi Silva, quase formado em Ciência da computação pela Universidade Comunitária da região de Chapecó. Sou um entusiasta por tecnologia.
+Sou Davi Silva, formado em Ciência da computação pela Universidade Comunitária da região de Chapecó. Sou um entusiasta por tecnologia.
 
 
 ### Linguagens as quais possuo conhecimentos

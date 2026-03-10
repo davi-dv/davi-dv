@@ -5,8 +5,6 @@ Sou Davi Silva, formado em Ciência da computação pela Universidade Comunitár
 
 ### Linguagens as quais possuo conhecimentos
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 

@@ -41,8 +41,7 @@ I focus on creating responsive, accessible, and high-performance user experience
 
 ### Contact
 
-- [LinkedIn](https://www.linkedin.com/in/davi-silva-076a6517a/)
-- [GitHub](https://github.com/dav-dv)
+- [[LinkedIn](https://www.linkedin.com/in/davi-silva-076a6517a/)](https://www.linkedin.com/in/davicustodiodeoliveirasilva/?isSelfProfile=true)
 
 ---
 

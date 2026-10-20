@@ -1,44 +1,87 @@
-# É um prazer ver você aqui  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+# Hi there! 👋 | Olá! 👋
 
-Sou Davi Silva, formado em Ciência da computação pela Universidade Comunitária da região de Chapecó
+[🇺🇸 English](#english) · [🇧🇷 Português](#português)
 
+---
 
-### Linguagens as quais possuo conhecimentos
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<a name="english"></a>
 
+## 🇺🇸 English
+
+Hi! I'm **Davi Silva**, a Front-End Engineer with 5+ years of experience building web applications and interactive user interfaces. I hold a Bachelor's degree in Computer Science from Universidade Comunitária da Região de Chapecó, Brazil.
+
+I focus on creating responsive, accessible, and high-performance user experiences.
 
 ### Front-end
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D)
-<!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff) -->
 
-### Back-end
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-### Infraestrutura
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+### Back-end and Databases
 
-### Versionamento de códigos
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## Contatos
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/dav-dv)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/davi-silva-076a6517a/)
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+### Infrastructure and Tools
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
+### Contact
+
+- [LinkedIn](https://www.linkedin.com/in/davi-silva-076a6517a/)
+- [GitHub](https://github.com/dav-dv)
+
+---
+
+<a name="português"></a>
+
+## 🇧🇷 Português
+
+Olá! Sou **Davi Silva**, Engenheiro Front-end com mais de 5 anos de experiência no desenvolvimento de aplicações web e interfaces interativas. Sou bacharel em Ciência da Computação pela Universidade Comunitária da Região de Chapecó.
+
+Meu foco é desenvolver experiências digitais responsivas, acessíveis e com alto desempenho.
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+### Back-end e Bancos de Dados
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### Infraestrutura e Ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+
+### Contato
+
+- [LinkedIn](https://www.linkedin.com/in/davi-silva-076a6517a/)
+- [GitHub](https://github.com/dav-dv)

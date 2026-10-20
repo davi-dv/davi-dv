@@ -8,7 +8,7 @@
 
 ## 🇺🇸 English
 
-Hi! I'm **Davi Silva**, a Front-End Engineer with 5+ years of experience building web applications and interactive user interfaces. I hold a Bachelor's degree in Computer Science from Universidade Comunitária da Região de Chapecó, Brazil.
+Front-End Engineer with 5+ years of experience building web applications and interactive user interfaces. I hold a Bachelor's degree in Computer Science from Universidade Comunitária da Região de Chapecó, Brazil.
 
 I focus on creating responsive, accessible, and high-performance user experiences.
 
@@ -49,7 +49,7 @@ I focus on creating responsive, accessible, and high-performance user experience
 
 ## 🇧🇷 Português
 
-Olá! Sou **Davi Silva**, Engenheiro Front-end com mais de 5 anos de experiência no desenvolvimento de aplicações web e interfaces interativas. Sou bacharel em Ciência da Computação pela Universidade Comunitária da Região de Chapecó.
+Engenheiro Front-end com mais de 5 anos de experiência no desenvolvimento de aplicações web e interfaces interativas. Sou bacharel em Ciência da Computação pela Universidade Comunitária da Região de Chapecó.
 
 Meu foco é desenvolver experiências digitais responsivas, acessíveis e com alto desempenho.
 

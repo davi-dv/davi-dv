@@ -2,8 +2,7 @@
 
 [🇺🇸 English](#english) · [🇧🇷 Português](#portugues)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-silva-076a6517a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dav-dv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davicustodiodeoliveirasilva/)
 
 ---
 
@@ -53,7 +52,7 @@ My focus is on building **scalable, accessible, and high-performance web experie
 
 ### 📫 Contact
 
-- [[LinkedIn](https://www.linkedin.com/in/davi-silva-076a6517a/)](https://www.linkedin.com/in/davicustodiodeoliveirasilva/?isSelfProfile=true)
+- [LinkedIn](https://www.linkedin.com/in/davicustodiodeoliveirasilva/)
 
 ---
 
@@ -78,4 +77,4 @@ As principais tecnologias que utilizo estão listadas na seção acima.
 
 ### 📫 Contato
 
-- [[LinkedIn](https://www.linkedin.com/in/davi-silva-076a6517a/)](https://www.linkedin.com/in/davicustodiodeoliveirasilva/?isSelfProfile=true)
+- [LinkedIn](https://www.linkedin.com/in/davicustodiodeoliveirasilva/)

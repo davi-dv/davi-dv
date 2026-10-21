@@ -50,6 +50,17 @@ My focus is on building **scalable, accessible, and high-performance web experie
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
+### 🎧 My Setup
+
+- 💻 **Laptop:** Acer Predator Helios Neo 16 (PHN16-71-72W6)
+- ⚙️ **Processor:** Intel Core i7-13650HX (13th Gen)
+- 🎮 **Graphics:** NVIDIA GeForce RTX 4060 Laptop GPU (8 GB)
+- 🧠 **RAM:** 16 GB
+- 🎙️ **Microphone:** HyperX SoloCast
+- 🎧 **Headset:** QCY H3 ANC
+- 📷 **Webcam:** Logitech C920s Full HD
+- 🪑 **Chair:** Cougar Armor One V2 Gold
+
 ### 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/davicustodiodeoliveirasilva/)
@@ -74,6 +85,17 @@ Meu foco é desenvolver **experiências web escaláveis, acessíveis e com alto 
 ### 🛠️ Tecnologias
 
 As principais tecnologias que utilizo estão listadas na seção acima.
+
+### 🎧 Meu Setup
+
+- 💻 **Notebook:** Acer Predator Helios Neo 16 (PHN16-71-72W6)
+- ⚙️ **Processador:** Intel Core i7-13650HX (13ª geração)
+- 🎮 **Placa de vídeo:** NVIDIA GeForce RTX 4060 Laptop GPU (8 GB)
+- 🧠 **Memória RAM:** 16 GB
+- 🎙️ **Microfone:** HyperX SoloCast
+- 🎧 **Headset:** QCY H3 ANC
+- 📷 **Webcam:** Logitech C920s Full HD
+- 🪑 **Cadeira:** Cougar Armor One V2 Gold
 
 ### 📫 Contato
 

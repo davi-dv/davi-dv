@@ -1,4 +1,4 @@
-# Davi Silva | Front-End Engineer 👋
+# Davi Silva | Software Engineer 👋
 
 [🇺🇸 English](#english) · [🇧🇷 Português](#portugues)
 
@@ -10,9 +10,11 @@
 
 ## 🇺🇸 English
 
-I'm a **Front-End Engineer with 5+ years of experience** building web applications and interactive user interfaces. I hold a Bachelor's degree in Computer Science from Universidade Comunitária da Região de Chapecó, Brazil.
+I'm a **Software Engineer with 5+ years of professional experience**, primarily focused on front-end development and building scalable, accessible, and high-performance web applications.
 
-My focus is on building **scalable, accessible, and high-performance web experiences**, with expertise in React, Next.js, and TypeScript.
+My core expertise is in **React, Next.js, and TypeScript**, and I'm currently expanding my experience into **back-end development, APIs, databases, and software architecture**, with the goal of becoming a more well-rounded Software Engineer.
+
+I hold a Bachelor's degree in Computer Science from Universidade Comunitária da Região de Chapecó, Brazil.
 
 ### 🚀 Professional Highlights
 
@@ -71,9 +73,11 @@ My focus is on building **scalable, accessible, and high-performance web experie
 
 ## 🇧🇷 Português
 
-Sou **Engenheiro Front-end com mais de 5 anos de experiência** no desenvolvimento de aplicações web e interfaces interativas. Sou bacharel em Ciência da Computação pela Universidade Comunitária da Região de Chapecó.
+Sou **Engenheiro de Software com mais de 5 anos de experiência profissional**, atuando principalmente com desenvolvimento front-end e na construção de aplicações web escaláveis, acessíveis e de alta performance.
 
-Meu foco é desenvolver **experiências web escaláveis, acessíveis e com alto desempenho**, utilizando tecnologias como React, Next.js e TypeScript.
+Minha principal especialidade é **React, Next.js e TypeScript**, e atualmente estou expandindo minha atuação para **desenvolvimento back-end, APIs, bancos de dados e arquitetura de software**, buscando uma visão cada vez mais completa de Engenharia de Software.
+
+Sou bacharel em Ciência da Computação pela Universidade Comunitária da Região de Chapecó.
 
 ### 🚀 Principais resultados
 
